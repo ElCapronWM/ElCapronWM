@@ -8,11 +8,20 @@
 
 I am architecting the next generation of social and economic infrastructure for the MENA region. My work is focused on the intersection of **Sovereign AI**, **Distributed Governance**, and **Regional Economic Empowerment**. 
 
-ElCapron is not just a platform; it is a **Digital Public Infrastructure** designed to transform the fragmented digital landscape of the Middle East and North Africa into a transparent, technology-governed republic of participation and opportunity.
+ElCapron is not just a platform; it is a **Sovereign Digital Public Infrastructure (DPI)** designed to transform the fragmented digital landscape of the Middle East and North Africa into a transparent, technology-governed republic of participation and opportunity.
+
+My mission is to solve systemic institutional and macroeconomic challenges through architecture—specifically for Tunisia, by formalizing the informal economy, reinforcing institutional transparency, and establishing a secure digital substrate for national prosperity.
 
 ---
 
-## 🧠 Core Intellectual Pillars
+## 🏛️ Sovereign Strategic Utility
+
+The ElCapron ecosystem is engineered to provide critical state-level capabilities:
+
+- **Institutional Integrity:** Reinforcing AML/CTF controls through high-throughput AI analysis and immutable financial traceability.
+- **Economic Formalization:** Providing a digital bridge for the ~40% informal economy to integrate into a structured, auditable value loop.
+- **National Security:** Strengthening regional resilience through economic intelligence and sovereign digital continuity.
+- **Governance-as-Code:** Replacing opaque, manual processes with transparent, auditable digital governance systems.
 
 - **Sovereign AI:** Building autonomous decision systems that are culturally native, auditable, and inherently local.
 - **Institutional Memory:** Designing systems that preserve knowledge and decisions to foster transparency and accountability.
